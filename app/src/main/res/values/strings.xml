@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewViews_Aitor</string>
+    <string name="user_text_input">Usuario</string>
+    <string name="password_text_input">Contrasena</string>
+    <string name="button_login_1">findBy</string>
+    <string name="button_login_2">Syntetic import</string>
+    <string name="button_login_3">dataBinding </string>
+
+
+</resources>
